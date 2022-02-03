@@ -6,9 +6,9 @@ puts "Enter the numbers for sum:"
 n1 = gets
 n2 = gets
 
+n3 = n1.to_f+n2.to_f
 
-puts "The sum is #{n1}+#{n2}"
-
+puts "The sum is #{n3}"
 
 
 end
