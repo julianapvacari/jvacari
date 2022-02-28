@@ -1,4 +1,4 @@
-#IMC
+#Your ideal weight
 
 def imc
 

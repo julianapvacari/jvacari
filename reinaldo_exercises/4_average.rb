@@ -1,4 +1,4 @@
-#Average
+#Average in School
 
 def average_grade_in_school
 

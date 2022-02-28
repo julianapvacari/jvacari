@@ -1,4 +1,4 @@
-#IMCFM
+#Your ideal weight for Woman and Man
 
 def imc_f_m
 
