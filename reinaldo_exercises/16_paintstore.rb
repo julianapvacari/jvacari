@@ -7,19 +7,17 @@ def paint_store
 
     area = gets.chomp.to_f
 
+    var1 = area / 3
 
+    puts "You will need #{var1}L of paint"
 
-    
+    var2 = (var1/18).ceil
 
-
-
-    # 1L = 3m2
-    # 1 lata = 18L
-    # 1 lata  R$80
+    price = var2*80
 
 
 
-    puts "You will need xxx paint cans by value R$xx.xx"
+    puts "You will need #{var2} paint cans by value R$#{price}"
 
 
 
