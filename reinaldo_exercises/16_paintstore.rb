@@ -9,7 +9,7 @@ def paint_store
 
     var1 = area / 3
 
-    puts "You will need #{var1}L of paint"
+    # puts "You will need #{var1}L of paint"
 
     var2 = (var1/18).ceil
 
