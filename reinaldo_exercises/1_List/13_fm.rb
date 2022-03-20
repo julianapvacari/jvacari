@@ -1,4 +1,7 @@
-#Your ideal weight for Woman and Man
+#13. Taking as input the height (h) of a person, build an algorithm that calculates its weight
+#ideal, using the following formulas:
+#A. For men: (72.7*h) - 58
+#B. For women: (62.1*h) - 44.7
 
 def imc_f_m
 

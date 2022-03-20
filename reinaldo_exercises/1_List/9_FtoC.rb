@@ -1,5 +1,5 @@
-#Fahrenheit to Celsius
-
+#9. Make a program that asks for the temperature in degrees Fahrenheit, transforms and displays the temperature
+#in degrees Celsius oC = 5 * ((F-32) / 9).
 
 def f_to_c
 

@@ -1,4 +1,6 @@
-#Speed download MbxMbps
+# 18. Make a program that asks for the size of a file to download (in MB) and the speed of a
+# Internet link (in Mbps), calculate and report the approximate download time of the file using this
+# link (in minutes).
 
 def speed_download
 

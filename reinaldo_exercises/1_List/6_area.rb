@@ -1,4 +1,4 @@
-#Calculating the area of a circle
+#6. Write a program that asks for the radius of a circle, calculates and displays its area.
 
 def area_circle
 

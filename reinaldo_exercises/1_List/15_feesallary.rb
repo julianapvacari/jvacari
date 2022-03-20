@@ -1,4 +1,17 @@
-#Calculate fee sallary per month 
+#15. Make a program that asks how much you earn per hour and the number of hours worked in the
+# month. Calculate and display the total of your salary in that month, knowing that 11% is deducted
+# for the Income Tax, 8% for the INSS and 5% for the union, make a program that gives us:
+# The. gross salary.
+# B. How much did you pay the INSS?
+# ç. How much did you pay the union?
+# d. the net salary.
+# and. Calculate the discounts and the net salary, according to the table below:
+# f. + Gross Salary: R$
+# g. - Income Tax (11%): BRL
+# H. - INSS (8%): BRL
+# i. - Union (5%): BRL
+# = Net Salary: R$
+# Obs.: Gross Salary - Discounts = Net Salary.
 
 def fee
 

@@ -1,4 +1,7 @@
-#Float and Integer
+#11. Write a program that asks for 2 integers and a real number. Calculate and show:
+#A. the product of twice the first and half of the second.
+#B. the sum of triple the first and the third.
+#C. the third to the cube
 
 def int_flo
 

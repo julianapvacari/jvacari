@@ -1,4 +1,4 @@
-#Convert m to cm
+#5. Write a program that converts meters to centimeters.
 
 def m_to_cm
 

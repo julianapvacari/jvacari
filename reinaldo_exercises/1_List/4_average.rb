@@ -1,4 +1,4 @@
-#Average in School
+#4. Make a Program that asks for the 4 bimonthly grades and shows the average.
 
 def average_grade_in_school
 

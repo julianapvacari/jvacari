@@ -1,5 +1,5 @@
-#Double the area of the square
-
+#7. Write a program that calculates the area of a square, then shows twice this area to the
+# user.
 
 def doble_area
 

@@ -1,4 +1,4 @@
-#Hello world!
+#1. Make a program that displays the message "Hello world" on the screen.
 
 def hello_world
 

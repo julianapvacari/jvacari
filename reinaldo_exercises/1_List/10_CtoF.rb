@@ -1,4 +1,5 @@
-#Celsius to Fahrenheit
+#10. Make a program that asks for the temperature in degrees Celsius, transforms and displays it in degrees
+# Fahrenheit.
 
 
 def c_to_f
