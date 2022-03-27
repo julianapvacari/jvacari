@@ -13,25 +13,19 @@ def f_or_m
   if (gender == "f")
      puts "Female (Gender is valid)" 
 
+  elsif (gender == "F")
+     puts "Female (Gender is valid)" 
+
   elsif (gender == "m")
      puts "Male (Gender is valid)"
+
+  elsif (gender == "M")
+      puts "Male (Gender is valid)"
 
   else (gender)
      puts "Invalid gender."
 
 end
-
-
-#   if (gender == "F")
-#    puts "Female (Gender is valid)"
-
-#   elsif (gender == "M")
-#    puts "Male (Gender is valid)"
-
-# #   else (gender)
-# #    puts "Invalid gender."
-
-# end
 
 
 
