@@ -6,8 +6,33 @@
 
 def note
 
+  puts "Enters with two partial grades:"
+
+  one = gets.chomp.to_f
+
+  two = gets.chomp.to_f
+
+  total = (one + two) / 2
 
 
+  if (total == 10)
+    puts "Approved with Distinction"
+
+  elsif (total > 10)
+    puts "Invalid grades"
+
+  elsif (total < 0)
+    puts "Invalid grades"
+
+  elsif (total >= 7)
+    puts "Approved"
+
+  else 
+    puts "Fail"
+  
+
+
+  end
 
 
 
