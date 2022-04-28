@@ -15,11 +15,56 @@
 def equation
 
 
+puts "This program calculates quadratic equations, enter the values of a, b and c:"
+
+a = gets.chomp.to_i
+
+b = gets.chomp.to_i
+
+c = gets.chomp.to_i
+
+# ax²+bx+c=0
+
+
+
+
+aa = a * a
+
+bb = b * b
+
+aaa = 2 * a
+
+
+
+four1 = 4 * a 
+four2 = 4 * c
+four3 = four1 + four2
+
+
+#Delta = b²-4ac
+delta1 = bb - four3
+
+
+raiz = Math.sqrt (delta1)
+
+
+
+
+x1 = (- (b) + raiz) / aaa
+
+x2 = (- (b) - raiz) / aaa
 
 
 
 
 
+if (a == 0)
+    puts "This program should calculate only quadratic equations, due the value of a program ends here"
+
+elsif (a =! 0)
+    puts "The answers are #{x1} and #{x2} "
+
+end
 
 
 
