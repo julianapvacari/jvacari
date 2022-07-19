@@ -4,24 +4,24 @@ def vow_con
 
 puts "Enters the word and I will show you if is vowel or consonant :D"
 
-word = gets.chomp.to_s
+word = gets.chomp
 
 STDOUT.flush
 
 
-if word == "a"M
+if (word == "a" || word == "A")
   puts "This word is vowel!"
 
-elsif word == "e"
+elsif (word == "e" || word == "E")
   puts "This word is vowel!"
 
-elsif word == "i"
+elsif (word == "i")
     puts "This word is vowel!"
 
-elsif word == "o"
+elsif (word == "o")
     puts "This word is vowel!"
 
-elsif word == "u"
+elsif (word == "u")
     puts "This word is vowel!"
 
 
